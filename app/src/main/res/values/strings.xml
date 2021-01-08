@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Luck Horoscope</string>
+
+    <string name="title1">ARIES</string>
+    <string name="title2">TAURUS</string>
+    <string name="title3">GEMINI</string>
+    <string name="title4">CANCER</string>
+    <string name="title5">LEO</string>
+    <string name="title6">VIRGO</string>
+    <string name="title7">LIBRA</string>
+    <string name="title8">SCORPIO</string>
+    <string name="title9">SAGITTARIUS</string>
+    <string name="title10">CAPRICORN</string>
+    <string name="title11">AQUARIUS</string>
+    <string name="title12">PISCES</string>
+</resources>
